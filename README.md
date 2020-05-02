@@ -1,2 +1,0 @@
-# ateca
-Lunch with tags

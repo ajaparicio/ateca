@@ -1,0 +1,9 @@
+syntax: glob
+.idea
+*.iml
+target
+.idea\libraries
+*.jks
+*.p8
+*.p12
+*.key
